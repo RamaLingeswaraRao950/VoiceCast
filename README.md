@@ -23,5 +23,10 @@ Welcome to the **VoiceCast** project using Python! This project converts text in
 The program will:
 
 - Convert the given text into an MP3 file 🎙️
-
 - Play the audio file using your system’s default player 🎧
+
+🚀 About the Author
+Hi, I'm Ram 🇮🇳
+I'm a passionate Full-Stack Developer who loves to build simple yet impactful projects using Python and web technologies. 🌟
+
+✅ Feel free to star ⭐ the repository if you found it useful!
