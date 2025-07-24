@@ -5,8 +5,8 @@ Welcome to the **VoiceCast** project using Python! This project converts text in
 ## 📌 Features :--
 - ✅ Converts text to speech using Google TTS
 - 🔊 Plays the generated speech audio
-- 🌐 Supports multiple languages (default: English)
-- 💡 Lightweight and beginner-friendly
+- 🌐 Supports multiple languages
+- 💡 Lightweight and beginner - friendly
 
 ## 🛠️ Technologies Used :--
 - Python 🐍
@@ -20,13 +20,8 @@ Welcome to the **VoiceCast** project using Python! This project converts text in
 3. Install the required libraries
 4. Run the script
 
-## The program will :--
+✅ Feel free to star ⭐ the repository if you found it useful!
 
-- Convert the given text into an MP3 file 🎙️
-- Play the audio file using your system’s default player 🎧
-
-## ✅ Feel free to star ⭐ the repository if you found it useful!
-
-## 🚀 About the Author :--
+🚀 About the Author :--
 
 Hi, I'm Ram. I'm a passionate Full-Stack Developer who loves to build simple yet impactful projects using Python and web technologies. 🌟
