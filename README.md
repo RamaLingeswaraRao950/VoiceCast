@@ -15,6 +15,13 @@ Welcome to the **VoiceCast** project using Python! This project converts text in
 
 ## 📋 How to Use
 
-1. Clone this repository :--
+1. Clone this repository
+2. Navigate to the project directory
+3. Install the required libraries
+4. Run the script
 
-   git clone :-- [https://github.com/your-username/your-repo-name.git](https://github.com/RamaLingeswaraRao950/VoiceCast.git)
+The program will:
+
+- Convert the given text into an MP3 file 🎙️
+
+- Play the audio file using your system’s default player 🎧
