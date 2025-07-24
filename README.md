@@ -15,6 +15,6 @@ Welcome to the **VoiceCast** project using Python! This project converts text in
 
 ## 📋 How to Use
 
-1. Clone this repository:
+1. Clone this repository :--
 
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone :-- [https://github.com/your-username/your-repo-name.git](https://github.com/RamaLingeswaraRao950/VoiceCast.git)
