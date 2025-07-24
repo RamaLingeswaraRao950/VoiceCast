@@ -22,5 +22,5 @@ Welcome to the **VoiceCast** project using Python! This project converts text in
 
 ✅ Feel free to star ⭐ the repository if you found it useful!
 
-🚀 About the Author :--
+🚀 About the Author :
 Hi, I'm Ram. I'm a passionate Full-Stack Developer who loves to build simple yet impactful projects using Python and web technologies. 🌟
